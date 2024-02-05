@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EventTicketBookingPlatform",
+    "\\EventTicketBookingPlatform\\Controllers",
+    "\\EventTicketBookingPlatform\\Models",
+    "\\EventTicketBookingPlatform\\Services"
+  ],
+  "SelectedNode": "\\EventTicketBookingPlatform\\Controllers\\TiketController.cs",
+  "PreviewInSolutionExplorer": false
+}

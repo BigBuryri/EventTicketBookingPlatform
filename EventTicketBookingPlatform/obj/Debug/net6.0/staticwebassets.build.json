@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zpk9LvwZfPyyle7bu0bWgKica7TICo11zXqiNVV6a60=",
+  "Source": "EventTicketBookingPlatform",
+  "BasePath": "_content/EventTicketBookingPlatform",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
